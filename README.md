@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente estudante do Curso de Ciência da Computação na Universidade Federal de Uberlândia - UFU</p>
+<p align="left">👩🏽‍💻 Atualmente estudante do Curso de Ciência da Computação na Universidade Federal de Uberlândia - UFU</p>
 
 ###
 
