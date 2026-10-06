@@ -6,14 +6,14 @@
 
 ###
 
-### 💼 Experiência
+### Experiência
 
 *   **Educadora de TI | Prepara IA** *(Atualmente)*
     <br>Ensino lógica de programação, ferramentas do Pacote Office e noções de informática, ajudando os alunos a construírem bases sólidas em tecnologia.
 *   **Instrutora de Power BI | Oficina do Amanhã & Uditech** *(Fev. de 2026 - Mar. de 2026)*
     <br>Ministrei um curso focado na construção de <i>dashboards</i> e análise de dados no Centro Profissionalizante de Tecnologia Avançada (Uditech), através da Oficina do Amanhã. O treinamento capacitou os alunos a transformarem dados brutos em decisões visuais estratégicas.
 
-## 🎓 Área Acadêmica
+### Área Acadêmica
 
 *   **Bacharelado em Ciência da Computação | Universidade Federal de Uberlândia (UFU)**
     *(Atualmente)*
